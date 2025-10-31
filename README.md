@@ -89,5 +89,7 @@ Remaining employees: []
 - ✅ How to implement CRUD operations with DAO pattern
 - ✅ How to externalize DB config with db.properties
 - ✅ How to test and verify data in both console and Workbench
-Auther
+
+
+Author
 Kunal
