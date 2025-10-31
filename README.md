@@ -1,6 +1,6 @@
 Employee Database CRUD App
 A complete Java + JDBC + MySQL project that demonstrates CRUD operations (Create, Read, Update, Delete) on an employees table.
-This project is designed as a step‑by‑step learning task and a portfolio‑ready mini project for interviews.
+This project is designed as a step‑by‑step.
 
 📌 Project Tasks (Mini Guide)
 - Set up Database and Table
